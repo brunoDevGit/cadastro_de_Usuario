@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Jonh",
+            "email": "Jonh@Cadastro.com.br",
+            "whatsapp": "11999999999"
+        },
+        {
+            "id": 1,
+            "name": "Marie",
+            "email": "Marie@Cadastro.com.br",
+            "whatsapp": "11000000000"
+        }
+    ]
+}
