@@ -6,7 +6,7 @@ export default props =>
 <aside className= "logo">
     <a href="/" className="logo">
         
-        <i className={`logoTitulo fa fa-${props.icon}`}></i>
+        <i className={`logoStyle fa fa-${props.icon}`}></i>
         
         
     </a>

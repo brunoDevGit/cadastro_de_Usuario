@@ -5,5 +5,7 @@ import './Footer.css'
 export default props => 
 
 <footer className="footer">
-    Rodapé
+    <span>
+    Desenvolvido por <i className="fa fa-tree text-primary"> <a href="http://brunodevgit.github.io/">brnApps</a> </i>
+    </span>
 </footer>

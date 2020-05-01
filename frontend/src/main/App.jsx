@@ -12,7 +12,8 @@ import Main from '../components/template/Main'
 export default props =>
 
 <div className="app">
-        <Logo icon="home"></Logo>
+        <Logo icon="users"></Logo>
+        
         <Nav></Nav>
         <Main  title="Início"
               subtitle="crud parte frontend">
