@@ -1,13 +1,11 @@
 import React from 'react'
 import './Logo.css'
+import { Link } from 'react-router-dom'
+export default props =>
 
-export default props => 
+    <aside className="logo">
+        <Link to="/" className="logo">
 
-<aside className= "logo">
-    <a href="/" className="logo">
-        
-        <i className={`logoStyle fa fa-${props.icon}`}></i>
-        
-        
-    </a>
-</aside>
+            <i className={`logoStyle fa fa-${props.icon}`}></i>
+        </Link>
+    </aside>
