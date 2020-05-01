@@ -18,3 +18,7 @@ aside.logo img {
     text-align: center;
     font-size: 100px;
 }
+@media(max-width: 576px) {
+    aside.logo icon{
+        width: 350px;
+    }}
